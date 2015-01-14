@@ -512,6 +512,7 @@ label {
 .social-icons a{
 	margin:0 8px;
 	text-decoration:none;
+	color: blue;
 }
 .next-prev-nav{
 	display:inline-block;
@@ -1567,7 +1568,7 @@ html[xmlns] .slides {
 }
 .page-header h1{
 	text-transform:uppercase;
-	color:#ffffff;
+	color:#3C3535;
 	margin-bottom:0;
 	line-height:1em;
 	font-family: 'Roboto Condensed', sans-serif;
@@ -2091,7 +2092,8 @@ ol.breadcrumb > .active{
 	display:inline-block;
 	line-height:25px;
 	text-align:center;
-	color:#ffffff;
+	color:#000;
+
 	-webkit-border-radius:100%;
 	-moz-border-radius:100%;
 	border-radius:100%;
