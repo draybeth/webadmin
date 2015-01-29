@@ -36,12 +36,15 @@
            $.cookie('ColorScheme',SCHEME);
 			return false;
 		});
+<<<<<<< HEAD
 		$(".color-banner a").click(function () {
 			SCHEME = $(this).attr('data-rel');
 			$('link.alt').attr('href', $(this).attr('data-rel'));
            $.cookie('ColorScheme',SCHEME);
 			return false;
 		});
+=======
+>>>>>>> 2e39bd529bade3b2a37d91ce02b48d5b4dd35d98
 		imgPathStart = "style-switcher/backgrounds/patterns/";
 		imgPathEnd = new Array("pt1.png","pt2.png","pt3.png","pt4.png","pt5.png","pt6.png","pt7.png","pt8.png","pt9.png","pt10.png","pt11.jpg","pt12.jpg","pt13.jpg","pt14.jpg","pt15.jpg");
 		$(".background-selector li img").click(function() {
