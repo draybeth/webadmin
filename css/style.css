@@ -765,7 +765,7 @@ body.boxed .body .site-header, body.boxed .body .main-menu-wrapper{
 }
 .navigation ul > li > a:hover, .navigation ul > li > a.current{
 	background-color:#007F7B;
-	color:white;
+	color:black;
 }
 .navigation > ul > li ul{
 	position:absolute;
@@ -856,7 +856,7 @@ body.boxed .body .site-header, body.boxed .body .main-menu-wrapper{
 .navigation .megamenu-container{
 	padding:25px;
 	width:100%;
-	color:#cccccc;
+	color:blue;
 }
 .navigation .megamenu-container ul{
 	display:block!important;
